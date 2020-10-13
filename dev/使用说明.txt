@@ -1,0 +1,5 @@
+
+双击install.bat，即可在本地使用tio
+
+注：
+maven 执行 mvn clean install  命令后，已经自动安装到电脑上的maven 仓库里了
